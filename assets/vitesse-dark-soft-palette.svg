@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="864" height="428" viewBox="0 0 864 428" role="img" aria-label="Vitesse palette (vitesse-dark-soft)">
+<rect width="864" height="428" fill="#222222"/>
+<text x="16" y="30" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#dbd7ca" font-weight="600">Vitesse — palette</text>
+<rect x="16" y="52" width="34" height="34" rx="6" fill="#222222" stroke="#434343" stroke-width="1"/>
+<text x="60" y="67" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">bg</text>
+<text x="60" y="81" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#222222</text>
+<rect x="296" y="52" width="34" height="34" rx="6" fill="#dbd7ca" stroke="#434343" stroke-width="1"/>
+<text x="340" y="67" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">fg</text>
+<text x="340" y="81" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#dbd7ca</text>
+<rect x="576" y="52" width="34" height="34" rx="6" fill="#918f87" stroke="#434343" stroke-width="1"/>
+<text x="620" y="67" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">fg_dim</text>
+<text x="620" y="81" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#918f87</text>
+<rect x="16" y="114" width="34" height="34" rx="6" fill="#758575" stroke="#434343" stroke-width="1"/>
+<text x="60" y="129" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">comment</text>
+<text x="60" y="143" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#758575</text>
+<rect x="296" y="114" width="34" height="34" rx="6" fill="#4d9375" stroke="#434343" stroke-width="1"/>
+<text x="340" y="129" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">keyword</text>
+<text x="340" y="143" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#4d9375</text>
+<rect x="576" y="114" width="34" height="34" rx="6" fill="#cb7676" stroke="#434343" stroke-width="1"/>
+<text x="620" y="129" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">storage</text>
+<text x="620" y="143" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#cb7676</text>
+<rect x="16" y="176" width="34" height="34" rx="6" fill="#80a665" stroke="#434343" stroke-width="1"/>
+<text x="60" y="191" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">function</text>
+<text x="60" y="205" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#80a665</text>
+<rect x="296" y="176" width="34" height="34" rx="6" fill="#5da994" stroke="#434343" stroke-width="1"/>
+<text x="340" y="191" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">type</text>
+<text x="340" y="205" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#5da994</text>
+<rect x="576" y="176" width="34" height="34" rx="6" fill="#4c9a91" stroke="#434343" stroke-width="1"/>
+<text x="620" y="191" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">number</text>
+<text x="620" y="205" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#4c9a91</text>
+<rect x="16" y="238" width="34" height="34" rx="6" fill="#c99076" stroke="#434343" stroke-width="1"/>
+<text x="60" y="253" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">constant</text>
+<text x="60" y="267" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#c99076</text>
+<rect x="296" y="238" width="34" height="34" rx="6" fill="#b8a965" stroke="#434343" stroke-width="1"/>
+<text x="340" y="253" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">member</text>
+<text x="340" y="267" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#b8a965</text>
+<rect x="576" y="238" width="34" height="34" rx="6" fill="#c98a7d" stroke="#434343" stroke-width="1"/>
+<text x="620" y="253" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">string</text>
+<text x="620" y="267" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#c98a7d</text>
+<rect x="16" y="300" width="34" height="34" rx="6" fill="#bd976a" stroke="#434343" stroke-width="1"/>
+<text x="60" y="315" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">attribute</text>
+<text x="60" y="329" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#bd976a</text>
+<rect x="296" y="300" width="34" height="34" rx="6" fill="#db889a" stroke="#434343" stroke-width="1"/>
+<text x="340" y="315" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">namespace</text>
+<text x="340" y="329" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#db889a</text>
+<rect x="576" y="300" width="34" height="34" rx="6" fill="#c98a7d" stroke="#434343" stroke-width="1"/>
+<text x="620" y="315" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">escape</text>
+<text x="620" y="329" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#c98a7d</text>
+<rect x="16" y="362" width="34" height="34" rx="6" fill="#cb7676" stroke="#434343" stroke-width="1"/>
+<text x="60" y="377" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">error</text>
+<text x="60" y="391" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#cb7676</text>
+<rect x="296" y="362" width="34" height="34" rx="6" fill="#6394bf" stroke="#434343" stroke-width="1"/>
+<text x="340" y="377" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">info</text>
+<text x="340" y="391" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#6394bf</text>
+</svg>

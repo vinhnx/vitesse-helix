@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="196" viewBox="0 0 640 196" role="img" aria-label="Vitesse applied to Rust code (vitesse-light)">
+<rect width="640" height="196" fill="#ffffff"/>
+<text x="18" y="44" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#c1c1bf">1</text>
+<text x="52" y="44" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#1e754f" xml:space="preserve">fn </text>
+<text x="75.55" y="44" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#59873a" xml:space="preserve">main</text>
+<text x="106.94999999999999" y="44" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#999999" xml:space="preserve">() {</text>
+<text x="18" y="70" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#c1c1bf">2</text>
+<text x="52" y="70" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#1e754f" xml:space="preserve">    let </text>
+<text x="114.8" y="70" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#b07d48" xml:space="preserve">count</text>
+<text x="154.05" y="70" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#999999" xml:space="preserve">: </text>
+<text x="169.75" y="70" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#2e8f82" xml:space="preserve">u32</text>
+<text x="193.3" y="70" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#ab5959" xml:space="preserve"> = </text>
+<text x="216.85000000000002" y="70" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#2f798a" xml:space="preserve">42</text>
+<text x="232.55" y="70" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#999999" xml:space="preserve">;</text>
+<text x="18" y="96" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#c1c1bf">3</text>
+<text x="52" y="96" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#a0ada0" font-style="italic" xml:space="preserve">    // muted, italic comment</text>
+<text x="18" y="122" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#c1c1bf">4</text>
+<text x="52" y="122" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#59873a" xml:space="preserve">    println!</text>
+<text x="146.2" y="122" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#999999" xml:space="preserve">(</text>
+<text x="154.04999999999998" y="122" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#b56959" xml:space="preserve">&quot;hello world&quot;</text>
+<text x="256.09999999999997" y="122" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#999999" xml:space="preserve">, </text>
+<text x="271.79999999999995" y="122" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#b07d48" xml:space="preserve">count</text>
+<text x="311.04999999999995" y="122" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#999999" xml:space="preserve">);</text>
+<text x="18" y="148" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#c1c1bf">5</text>
+<text x="52" y="148" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#999999" xml:space="preserve">}</text>
+<rect x="0" y="166" width="640" height="30" fill="#ffffff"/>
+<rect x="0" y="166" width="46" height="30" fill="#1e754f"/>
+<text x="11" y="186" font-family="ui-monospace,Menlo,monospace" font-size="12.5" font-weight="700" fill="#393a34">NOR</text>
+<text x="58" y="186" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#888985">main.rs</text>
+</svg>
