@@ -6,6 +6,15 @@
 
 ![Vitesse Black applied to Rust code](assets/screenshot.svg)
 
+## Related
+
+| Where | What |
+| --- | --- |
+| 🎨 **[vinhnx/vitesse-helix](https://github.com/vinhnx/vitesse-helix)** | this repo — the theme |
+| 📦 **[vinhnx/helix-config](https://github.com/vinhnx/helix-config)** | the Helix config that ships with this theme |
+| 📄 **[Gist](https://gist.github.com/vinhnx/8bb4ef22e5ccfee5f839dbf1a31939ae)** | single-file snapshot, now pointing here |
+| ⬆️ **[antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse)** | the original VSCode theme this ports |
+
 ## Palette
 
 Every color is read from the theme's own `[palette]` table, so this swatch
@@ -72,3 +81,10 @@ python3 scripts/generate-assets.py
 ## License
 
 MIT. Original Vitesse theme copyright (c) Anthony Fu, also MIT.
+
+## See also
+
+- 📦 [vinhnx/helix-config](https://github.com/vinhnx/helix-config) — VS Code-flavored Helix config
+- 📄 [Gist snapshot](https://gist.github.com/vinhnx/8bb4ef22e5ccfee5f839dbf1a31939ae) — both files in one place, no longer maintained
+- ⬆️ [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) — upstream theme
+- 🖥️ [Helix custom themes reference](https://docs.helix-editor.com/themes.html)
