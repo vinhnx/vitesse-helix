@@ -82,7 +82,7 @@ def swatch_svg(variant: str, pal: dict[str, str]) -> str:
         f'<rect width="{width}" height="{height}" fill="#{pal["bg"]}"/>',
         f'<text x="16" y="30" font-family="ui-monospace,Menlo,monospace" '
         f'font-size="15" fill="#{pal["fg"]}" font-weight="600">'
-        f"Vitesse \u2014 palette</text>",
+        f"Vitesse palette</text>",
     ]
     for i, (key, label, _desc) in enumerate(SWATCHES):
         col, row = i % cols, i // cols

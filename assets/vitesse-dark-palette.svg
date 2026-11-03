@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="864" height="428" viewBox="0 0 864 428" role="img" aria-label="Vitesse palette (vitesse-dark)">
 <rect width="864" height="428" fill="#121212"/>
-<text x="16" y="30" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#dbd7ca" font-weight="600">Vitesse — palette</text>
+<text x="16" y="30" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#dbd7ca" font-weight="600">Vitesse palette</text>
 <rect x="16" y="52" width="34" height="34" rx="6" fill="#121212" stroke="#353535" stroke-width="1"/>
 <text x="60" y="67" font-family="ui-monospace,Menlo,monospace" font-size="12.5" fill="#dbd7ca" font-weight="600">bg</text>
 <text x="60" y="81" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#758575">#121212</text>

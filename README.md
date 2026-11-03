@@ -1,6 +1,6 @@
 # vitesse-helix
 
-**The complete Vitesse theme family for [Helix](https://helix-editor.com)** — all
+**The complete Vitesse theme family for [Helix](https://helix-editor.com)**, all
 five variants ported from [Vitesse](https://github.com/antfu/vscode-theme-vitesse)
 by [Anthony Fu](https://github.com/antfu). None of these ship with Helix.
 
@@ -20,10 +20,10 @@ by [Anthony Fu](https://github.com/antfu). None of these ship with Helix.
 
 | Where | What |
 | --- | --- |
-| 🎨 **[vinhnx/vitesse-helix](https://github.com/vinhnx/vitesse-helix)** | this repo — the themes |
-| 📦 **[vinhnx/helix-config](https://github.com/vinhnx/helix-config)** | the Helix config that ships with these themes |
-| 📄 **[Gist](https://gist.github.com/vinhnx/8bb4ef22e5ccfee5f839dbf1a31939ae)** | single-file snapshot, now pointing here |
-| ⬆️ **[antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse)** | the original VS Code themes |
+| **[vinhnx/vitesse-helix](https://github.com/vinhnx/vitesse-helix)** | this repo: the themes |
+| **[vinhnx/helix-config](https://github.com/vinhnx/helix-config)** | the Helix config that ships with these themes |
+| **[Gist](https://gist.github.com/vinhnx/8bb4ef22e5ccfee5f839dbf1a31939ae)** | single-file snapshot, now pointing here |
+| **[antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse)** | the original VS Code themes |
 
 ## Install
 
@@ -93,7 +93,7 @@ they cannot drift from what Helix actually renders.
 ## Why this port differs from the VS Code themes
 
 Helix's theme loader reads only the first six digits of an `#rrggbbaa` color and
-**ignores the alpha channel** — there is no compositing. Vitesse leans on
+**ignores the alpha channel**; there is no compositing. Vitesse leans on
 translucency throughout, so a naive translation renders wrong:
 
 - The upstream foreground `#dbd7cacc` (86% alpha) would composite to a washed-out
@@ -116,7 +116,7 @@ Token colors are taken verbatim from upstream's `tokenColors`, not approximated.
 | `vitesse-light-soft` | 10.1:1 | 3.3:1 | 2.0:1 | 5.7 / 4.9 / 4.9 |
 
 Body text and mode indicators meet AA everywhere. In the light variants the dim
-text and comments are deliberately soft — that is upstream's design, not a bug.
+text and comments are deliberately soft; that is upstream's design, not a bug.
 
 ## Regenerating
 
@@ -137,7 +137,7 @@ MIT. Original Vitesse themes copyright (c) Anthony Fu, also MIT.
 
 ## See also
 
-- 📦 [vinhnx/helix-config](https://github.com/vinhnx/helix-config) — VS Code-flavored Helix config
-- 📄 [Gist snapshot](https://gist.github.com/vinhnx/8bb4ef22e5ccfee5f839dbf1a31939ae) — no longer maintained
-- ⬆️ [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) — upstream themes
-- 🖥️ [Helix custom themes reference](https://docs.helix-editor.com/themes.html)
+- [vinhnx/helix-config](https://github.com/vinhnx/helix-config): VS Code-flavored Helix config
+- [Gist snapshot](https://gist.github.com/vinhnx/8bb4ef22e5ccfee5f839dbf1a31939ae): no longer maintained
+- [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse): upstream themes
+- [Helix custom themes reference](https://docs.helix-editor.com/themes.html)
