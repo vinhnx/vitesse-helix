@@ -1,10 +1,10 @@
 # vitesse-helix
 
-**Vitesse Black for [Helix](https://helix-editor.com)** — a port of
+**Vitesse for [Helix](https://helix-editor.com)** — a port of
 [Vitesse](https://github.com/antfu/vscode-theme-vitesse) by
 [Anthony Fu](https://github.com/antfu), the theme that isn't bundled with Helix.
 
-![Vitesse Black applied to Rust code](assets/screenshot.svg)
+![Vitesse applied to Rust code](assets/screenshot.svg)
 
 ## Related
 
@@ -20,7 +20,7 @@
 Every color is read from the theme's own `[palette]` table, so this swatch
 matches the theme exactly.
 
-![Vitesse Black palette](assets/palette.svg)
+![Vitesse palette](assets/palette.svg)
 
 ## Install
 
@@ -42,7 +42,7 @@ without touching your config.
 ## Why this port differs from the VSCode theme
 
 Helix's theme loader reads only the first six digits of an `#rrggbbaa` color and
-**ignores the alpha channel** — there is no compositing. VSCode's Vitesse Black
+**ignores the alpha channel** — there is no compositing. VSCode's Vitesse
 leans on transparency throughout, so a naive port renders wrong.
 
 Concretely, the upstream foreground is `#dbd7cacc` (86% alpha). Compositing that

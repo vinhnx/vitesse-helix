@@ -1,5 +1,5 @@
-# Vitesse Black for Helix
-# Port of "Vitesse Black" by Anthony Fu (@antfu)
+# Vitesse for Helix
+# Port of "Vitesse" by Anthony Fu (@antfu)
 # https://github.com/antfu/vscode-theme-vitesse
 #
 # Helix ignores the alpha channel of #rrggbbaa colors, so every value below is

@@ -72,11 +72,11 @@ def swatch_svg(pal: dict[str, str]) -> str:
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
         f'viewBox="0 0 {width} {height}" role="img" '
-        f'aria-label="Vitesse Black color palette">',
+        f'aria-label="Vitesse color palette">',
         f'<rect width="{width}" height="{height}" fill="#{pal["black"]}"/>',
         f'<text x="16" y="30" font-family="ui-monospace,Menlo,monospace" '
         f'font-size="15" fill="#{pal["fg"]}" font-weight="600">'
-        f"Vitesse Black \u2014 palette</text>",
+        f"Vitesse \u2014 palette</text>",
     ]
     for i, (key, label, desc) in enumerate(SWATCHES):
         col, row = i % cols, i // cols
@@ -101,7 +101,7 @@ def code_svg(pal: dict[str, str]) -> str:
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
         f'viewBox="0 0 {width} {height}" role="img" '
-        f'aria-label="Vitesse Black applied to Rust code">',
+        f'aria-label="Vitesse applied to Rust code">',
         f'<rect width="{width}" height="{height}" fill="#{pal["black"]}"/>',
     ]
     y = pad
